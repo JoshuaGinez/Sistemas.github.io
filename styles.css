@@ -100,7 +100,7 @@ body{
   }
   .header .logo h2{
     font-size: 30px;
-    color: whitesmoke;
+    color: rgb(108, 105, 105);
     display: flex;
     height: auto;
     width: auto;
